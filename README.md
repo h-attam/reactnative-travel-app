@@ -8,7 +8,7 @@ Uygulama, kullanıcıların farklı kategorilerde (Oteller, Yemek, Macera vb.) s
 
 ## Ekran Görüntüsü
 
-<img src="/assets/Screen-2026-04-16-020203.gif" width="100" />
+<img src="/assets/Screen-2026-04-16-020203.gif" width="300" />
 
 ## Temel Özellikler
 
